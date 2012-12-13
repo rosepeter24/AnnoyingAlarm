@@ -6,6 +6,6 @@ CIS 345 Final Project
 Project description and details can be found in assets/final-project.docx
 
 Group:
-	-Peter Roes
+	-Peter Rose
 	-Troy Jordan
 	-Cody Stoflet
